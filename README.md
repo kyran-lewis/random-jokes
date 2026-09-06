@@ -23,7 +23,7 @@ npm install ejs
 ```
 
 ## Running the servers
-To run the server go to the app directory ```cd ./app ``` and simply enter the following command into the terminal:
+To run the server go to the app directory ```cd .\app ``` and simply enter the following command into the terminal:
 ```
 npm run dev
 ```
